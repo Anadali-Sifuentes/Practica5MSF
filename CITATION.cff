@@ -10,13 +10,13 @@ authors:
     family-names: Sifuentes
     email: L22212273@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/Anadali-Sifuentes/Practica4MSF'
+repository-code: 'https://github.com/Anadali-Sifuentes/Practica5MSF'
 keywords:
-  - Circuito RLC
-  - Controlador PI
-  - Sistema cardiovascular
+  - Eritropoyesis
+  - Estimación de parámetros
+  - Glóbulos rojos
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-17'
+date-released: '2025-11-07'
