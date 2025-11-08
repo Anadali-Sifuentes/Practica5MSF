@@ -36,10 +36,9 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
-
+1. x1(0) = 59.1906, 59.4730, 59.1491, 59.0262, 58.7702, 59.4845, 59.4539, 58.6952, 59.5021, 59.3295;
+2. x2(0) = 44.1422, 44.3527, 44.1112, 44.0196, 43.8286, 44.3614, 44.3385, 43.7727, 44.3744, 44.2457;
+3. x3(0) = 887.8594, 892.0951, 887.2368, 885.3935, 881.5524, 892.2681, 891.8082, 880.4283,892.5309, 889.9428;
 
 
 Palabras clave: Eritropoyesis; Estimación de parámetros; Glóbulos rojos; Modelo matemático; Simulaciones numéricas.
